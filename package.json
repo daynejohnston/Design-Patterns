@@ -1,0 +1,11 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Examples of various design patterns in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayne Johnston",
+  "license": "ISC"
+}
